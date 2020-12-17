@@ -60,3 +60,6 @@ HolodnayaDesign
 ВКонтакте
 Instagram
 Facebook
+
+
+ul.stage-description>(li.stage-description-item(h3+ing+p))*3
